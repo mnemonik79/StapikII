@@ -1,0 +1,12 @@
+app/
+├── main.py
+├── routers/
+│   └── orders.py
+├── schemas/
+│   └── order.py
+└── services/
+    └── order_service.py
+
+tests/
+├── test_order_service.py
+└── test_orders_api.py
